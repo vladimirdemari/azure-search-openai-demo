@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'vdemari-chatgpt'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C48E91F78C2B44469A3BA49062E9157D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F36C6C89913E4D6EB97309790B284A99 }}
